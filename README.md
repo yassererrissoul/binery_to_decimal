@@ -1,3 +1,16 @@
 <h1 align="center">Binery_To_Decimal</h1>
 
-##Just copy git clone "https://github.com/yassererrissoul/binery_to_decimal.git"
+# How To Run:
+## Copy this command and paste it into the terminal:
+```bash
+https://github.com/yassererrissoul/binery_to_decimal.git binery
+```
+# How To Use:<br/>
+## Just type:
+```bash
+cd binery/
+```
+## And:
+```bash
+./binery
+```
