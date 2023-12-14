@@ -12,5 +12,5 @@ cd binery/
 ```
 ## And:
 ```bash
-./ binery
+./binery
 ```
