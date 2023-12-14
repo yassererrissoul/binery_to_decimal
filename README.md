@@ -3,7 +3,7 @@
 # How To Run:
 ## Copy this command and paste it into the terminal:
 ```bash
-https://github.com/yassererrissoul/binery_to_decimal.git binery
+git clone https://github.com/yassererrissoul/binery_to_decimal.git binery
 ```
 # How To Use:<br/>
 ## Just type:
@@ -12,5 +12,5 @@ cd binery/
 ```
 ## And:
 ```bash
-./binery
+./ binery
 ```
